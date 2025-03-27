@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<launch>
+
+  <!-- Console -->
+  <node type="console" 
+        name="ow_console" 
+        pkg="ow_console"/>
+
+</launch>
+
